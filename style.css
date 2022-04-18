@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Indie+Flower&family=Inspiration&family=Josefin+Sans&display=swap');
+
+*{margin: 0;padding: 0;box-sizing: border-box;}
+#Head-Section,h3{
+  font-family: 'Dancing Script', cursive;
+}
+.row Span{
+  color:#ff006e ;
+}
+.fs-1{
+ color: #00b4d8;
+
+}
+.f3{
+  color: #00b4d8;
+}
+.what{
+  color:#16db93;
+}
+
+#topSection{
+  height:80vh;
+}
+
+#bton:hover{
+  color: white;
+  background-color: #ff006e;
+  transition: 0.3s;
+}
+#AboutP{
+  font-family:'Courier New', Courier, monospace;
+  color: black;
+}
+.fa-node{
+  color:#76c893;
+}
+.fa-js{
+  color: #ffd60a ;
+}
+.fa-code{
+  color:#ff8500;
+}
+h3{
+  color: #00b4d8;
+}
+.hhh:hover{
+  color: white;
+  background-color: #ff006e;
+  transition: 0.3s;
+}
+#footer{
+  font-family:'Dancing Script', cursive;
+}
+
+#footer a{
+  text-decoration: none;
+  color: #48cae4;
+}
+#footer a:hover{
+  cursor:pointer;
+}
